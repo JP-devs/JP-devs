@@ -37,7 +37,5 @@ A software developer focused on web creation, Minecraft development, and automat
 
 ## Connect With Me
 
-* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" alt="github" width="16" height="16"/> **GitHub:** [github.com/JP-devs](https://github.com/JP-devs)
-* <a href="https://discord.com/users/null.po1nt"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="discord" width="80" height="20"/>:
-null.po1nt</a>
-* ✉️ **Email:** jp10010110@gmail.com
+* <a href="https://discord.com/users/null.po1nt"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="discord" width="80" height="20"/> **Discord:** null.po1nt</a>
+* <a href="mailto:jp10010110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" width="65" height="20"/> **Email:** jp10010110@gmail.com</a>
