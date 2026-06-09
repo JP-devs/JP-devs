@@ -8,7 +8,7 @@ A software developer focused on web creation, Minecraft development, and automat
 
 ### Languages
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="16" height="16"/> Java
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="16" height="16"/> JavaScript
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="16" height="16"/> JavaScript (including various runtimes, tools, and branches)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="16" height="16"/> Go
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/> Python
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="16" height="16"/> C
@@ -33,6 +33,16 @@ A software developer focused on web creation, Minecraft development, and automat
 
 ## GitHub Analytics
 
+![JP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JP-devs&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devs&layout=compact&theme=dark)
+
+---
+
+## Connect With Me
+
+* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" alt="github" width="16" height="16"/> **GitHub:** [github.com/JP-devs](https://github.com/JP-devs)
+* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/discord.svg" alt="discord" width="16" height="16"/> **Discord:** null.po1nt
+* ✉️ **Email:** jp10010110@gmail.com
 ![JP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JP-devs&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devs&layout=compact&theme=dark)
 
