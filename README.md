@@ -6,9 +6,9 @@ A software developer focused on web creation, Minecraft development, and automat
 
 ## Tech Stack
 
-### Languages & Runtimes
+### Languages
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="16" height="16"/> Java
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="16" height="16"/> JavaScript (including various runtimes, tools, and branches)
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="16" height="16"/> JavaScript
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="16" height="16"/> Node.js
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="16" height="16"/> Go
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/> Python
