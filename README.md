@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Hi, I'm JP
 
 A software developer focused on web creation, Minecraft development, and automation tooling.
@@ -45,4 +45,3 @@ A software developer focused on web creation, Minecraft development, and automat
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="16" height="16"/> **Discord:** JP-devs
 * ✉️ **Email:** jp10010110@gmail.com
 
-```
